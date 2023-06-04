@@ -1,0 +1,336 @@
+<html>
+<head>
+    <script src="https://kit.fontawesome.com/dfea1d4379.js" crossorigin="anonymous"></script>
+<title>BICYCLE SITE BALI</title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+
+<!-- Teleport -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous"/>
+
+<style>
+#kotak
+{
+	color:#F60;
+	font-size:36px;
+	background:#000;
+	border:solid thick;
+	border-color:#FFF;
+	height:88%;
+	width:96%;
+}
+
+#box1
+{
+	background:#000;
+	height:70%;
+	width:100%;
+}
+    input[type=text],textarea,input[type=email]
+{
+	font-size:15px;
+	color:#FFF;
+	background:rgba(255,255,255,0.10);
+	width:80%;
+	padding:4px 20px;
+	margin:16px;
+	border-radius:100px;
+	border:2px solid #999;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:left;
+}
+
+#input:focus
+{
+	box-shadow:0px 0px 6px #000000;
+ 	background-color:#FFF;
+	color:#000;
+}
+#input:hover
+{
+	border:2px solid #FFF;
+}
+
+#lanjut:hover
+{
+	background-color:#0C3;
+}
+
+#batal:hover
+{
+	background-color:#F33;
+}
+
+.lanjut
+{
+	cursor:pointer;
+	background:none;
+	border:2px solid #0C3;
+	border-radius:100px;
+	color:#FFF;
+	text-align:center;
+	padding: 7px 30px;	
+	font-size:14px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.batal
+{
+	cursor:pointer;
+	background:none;
+	border:2px solid #F33;
+	border-radius:100px;
+	color:#FFF;
+	text-align:center;
+	padding: 7px 33px;
+	font-size:14px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#border
+{
+	border-right:1px solid #FFF;
+	border-left:1px solid #FFF;	
+}
+
+
+#font
+{
+	color:#FFF;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-right:1px solid #FFF;
+	border-left:1px solid #FFF;		
+}
+
+#sosmet {
+  background-color:transparent;
+  position: relative;
+  animation-name: example;
+  animation-duration: 1.30s;
+}
+
+#sosmet2 {
+  background-color:transparent;
+  position: relative;
+  animation-name: example;
+  animation-duration: 2s;
+}
+
+#sosmet3 {
+  background-color:transparent;
+  position: relative;
+  animation-name: example;
+  animation-duration: 3s;
+}
+
+@keyframes example {
+  0%   {left:0px; top:200px;}
+  50% {left:0px; top:0px;}
+}
+
+body 
+{
+	background:url(picture/toko1.jpg);
+}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px};
+</style>
+
+<body>
+	<!-- Toptop -->
+<div id="toptop"></div>
+
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-Black" href="javascript:void(0);" onClick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a class="w3-bar-item w3-padding-large w3-black"><img src="logo.png" width="40px" height="26px"></a>
+        <div class="w3-bar-item w3-padding-large"><b><font face="Agency FB" size="+1" color="#FF9900">BICYCLE SITE BALI</font></b></div>
+    <a href="hal1.html" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-orange"><b>HOME</b></a>
+    <a href="hal2.html" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-orange"><b>SHOP</b></a>
+    <a href="hal3.html" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-orange"><b>CYCLE TRACK</b></a>
+    <a href="#toptop" class="w3-bar-item w3-button w3-deep-orange w3-hide-small w3-padding-large w3-hover-deep-orange w3-right"><b>ABOUT US</b></a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="hal1.html" class="w3-bar-item w3-center w3-button w3-padding-large w3-hover-orange">HOME</a>
+    <a href="hal2.html" class="w3-bar-item w3-center w3-button w3-padding-large w3-hover-orange">SHOP</a>
+    <a href="hal3.html" class="w3-bar-item w3-center w3-button w3-padding-large w3-hover-orange">CYCLE TRACK</a>
+    <a class="w3-bar-item w3-center w3-button w3-padding-large w3-hover-grey">ABOUT US</a>
+   <a href="#toptop" class="w3-bar-item w3-center w3-button w3-amber w3-padding-large w3-hover-orange">
+      <table align="center" height="20px"><tr height="20px"><td height="20px">
+      <i class="fa fa-arrow-up"></i>
+    </td><td height="20px">
+  <b><font face="Agency FB" size="3"> GO UP </font></b></td><td height="20px">
+      <i class="fa fa-arrow-up" align="center"></i>
+</td></tr></table>
+    </a>
+  </div>
+</div>
+<br/>
+<br/>
+<br/>
+</body>
+	<table id="kotak" align="center">
+    	<tr>
+        	<td align="center">
+            <div class="w3-small"><br/><br/><br/></div>
+            	<B>ABOUT US</B>
+                <br/>
+                <br/>
+                <i>"<font color="#FFFFFF">BICYCLE SITE BALI MERUPAKAN SEBUAH WEBSITE YANG <br/> BERISI TENTANG BERBAGAI INFORMASI YANG BERHUBUNGAN<br/> TENTAN KEGIATAN BERSEPEDA</font>"</i>
+                <br/>
+                <br/>
+                <img src="logo.png" width="65px" height="45px">
+                <div class="w3-small"><br/><br/><br/></div>
+            </td>
+        </tr>
+    </table>
+<br/><br/>
+
+
+
+
+<div class="w3-main w3-content" style="max-width:1600px;margin-top:83px">
+  
+  <div class="w3-row w3-grayscale-min">
+      <div class="w3-half">
+<table id="box1" align="center" id="border">
+		<form name="form" method="post" action="">
+                <tr>
+                	<td align="center" id="border" width="50%">
+                    	<font size="20" color="#FFFFFF" face="agency FB"><B>Saran & Kritik</B></font>
+                        <br/><br/>
+                    	<input type="text" name="depan" placeholder="Nama*" id="input" required><br/>
+                        <input type="email" name="email" placeholder="Email*" id="input" required><br/>
+                        <textarea name="pesan" placeholder="Pesan*" id="input"></textarea><br/><br/>
+                        <input type="submit" value="Lanjut" class="lanjut" id="lanjut"><font color="#000000">.........</font>
+                        <input type="reset" value="Batal" class="batal" id="batal">
+                    </td></tr></form></table>
+                    
+                   </div><div class="w3-half">
+                   <table id="box1" align="center" id="border">
+                   <tr>
+                    <td align="center" id="font">
+                                       <h3 class="w3-border-bottom w3-border-light-orange w3-hide-large"></h3>
+                    	<font size="20" face="agency FB"><B>Contact</B></font>
+                        <br/><br/><br/><br/>
+                    	Email   :bicyclesitebali@gmail.com<br/>
+                        No.Tlp  :204(36)759-22-62<br/>
+                        Alamat  :Jl. Tukad Citarum No. 44 Denpasar<br/>
+                    	Website :www.bicyclesitebali.com<br/><br/><br/><br/>
+                        <a href="https://web.facebook.com/PewDiePie/?_rdc=1&_rdr"><img id="sosmet" src="picture/sosial2.png" height="60" width="48"></a><font color="#000000">...</font>
+                        <a href="https://www.instagram.com/pewdiepie/?hl=en"><img id="sosmet2" src="picture/sosial3.png" width="48" height="60"></a><font color="#000000">...</font>
+                        <a href="https://twitter.com/pewdiepie?lang=en"><img id="sosmet3" src="picture/sosial1.png" width="48" height="60"></a>
+                    </td>
+                </tr>          
+</table></div></div></div>
+
+<table bgcolor="#FF6600" width="100%" height="400">
+<tr>
+<td align="center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.0847951155847!2d115.23159441451875!3d-8.683486390825834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd2409b0e5e80db%3A0xad78f1ff66b638d2!2sSMK%20TI%20Bali%20Global%20Denpasar!5e0!3m2!1sen!2sid!4v1584769626650!5m2!1sen!2sid" width="99.5%" height="390" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</td>
+</tr>
+</table>
+
+<!-- Footer -->
+<font color="#FFFFFF">
+  <footer class="w3-container w3-padding-32 w3-black">  
+    <div class="w3-row-padding"><font color="#FFFFFF">
+      <div class="w3-third">
+        <h3>Social</h3>
+        <p>
+<img src="picture/sosial1.png" width="20px" width="20px"><font color="black">_ </font>@BicycleSiteBali<br/>
+<img src="picture/sosial2.png" width="20px" width="20px"><font color="black">_ </font> BicycleSite<br/>
+<img src="picture/sosial3.png" width="20px" width="20px"><font color="black">_ </font> @bicycleSite<br/>
+</p>    
+        <h3>Call</h3>
+204(36)759-22-62<br/>
+9(8463)667-96-39<br/>
+12(539)368-38-00<br/>
+  </p>    
+      </div>
+    
+      <div class="w3-third">
+        <h3>Page</h3><br/>
+        <ul class="w3-ul">
+          <a href="hal1.html"><li class="w3-padding-16 w3-hover-black">
+            <img  src="picture/footer1.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large"><font color="#FFFFFF"><b>HOME</b></font></span><br>
+            <font color="#FFFFFF">Bicycle Site Bali</font>
+          </li>
+          </a>
+          <br/>
+          <a href="hal2.html"><li class="w3-padding-16 w3-hover-black">
+            <img  src="picture/footer2.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large"><font color="#FFFFFF"><b>SHOP</b></font></span><br>
+            <font color="#FFFFFF">Buy you own ride here</font>
+          </li> 
+          </a>
+        </ul>
+      </div>
+
+      <div class="w3-third">
+        <h3><font color="black">:)</font></h3><br/>
+        <ul class="w3-ul">
+          <a href="hal3.html"><li class="w3-padding-16 w3-hover-black">
+            <img  src="picture/footer3.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large"><b><font color="#FFFFFF">CYCLE TRACK</font></b></span><br>
+            <font color="#FFFFFF">The best track in Bali</font>
+          </li>
+          </a>
+          <br/>
+          <a href="hal4.html"><li class="w3-padding-16 w3-hover-black">
+            <img  src="picture/footer4.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large"><b><font color="#FFFFFF">ABOUT US</font></b></span><br>
+            <font color="#FFFFFF">This web site</font>
+          </li> 
+          </a>
+        </ul>
+      </div>
+      </font>
+    </div>
+  </footer>
+<div class="w3-deep-orange w3-center w3-padding-15"><font color="black"><b>BICYCLE SITE BALI</b></font></div>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+<script>
+// Tabbed Menu
+function openMenu(evt, menuName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("menu");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-orange", "");
+  }
+  document.getElementById(menuName).style.display = "block";
+  evt.currentTarget.firstElementChild.className += " w3-orange";
+}
+document.getElementById("myLink").click();
+</script>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+</body>
+</html>

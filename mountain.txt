@@ -1,0 +1,81 @@
+EPSILON T6 (2020)
+Rp 45.000.000
+M29EPST620
+16.5
+FRAME
+
+ALLOY Full Susp 29 Super Boost TA
+
+FORK
+
+FOX 36 Performance Elite Float 160 mm Boost TA
+
+------------------------------------------------------2
+
+MIAMI 4.00 (2020)
+Rp 5.800.000
+MMIA4020
+17
+FRAME
+
+Alloy
+
+FORK
+
+Suntour XCM 27,5”/120mm, 29”/100mm
+
+----------------------------------------------3
+
+VENUS 3.00 (2020)
+Rp 3.650.000
+M26VEN3020
+15
+
+FRAME
+
+Alloy 26"
+
+FORK
+
+UNITED Fork 100 mm travel MLO
+
+----------------------------------4
+
+DETROIT 7.10 27.5 (2020)
+Rp 9.200.000
+MCBRDET7120
+17
+FRAME
+
+Carbon Frame W/Inner Cable Routing
+
+FORK
+
+Suntour XCM 32 Travel 120mm/27,5” , 100mm/29”
+
+---------------------------------5
+DALLAS 20.1 (2020)
+Rp 2.600.000
+M275DAL20120
+17
+FRAME
+
+Alloy 6061 27.5"
+
+FORK
+
+Breach Fork Travel 100mm
+
+------------------------------------6
+
+CROSSLINE P1 (2020)
+Rp 4.800.000
+M275CROP120
+16
+FRAME
+
+Alloy 27,5” Full Suspension
+
+FORK
+
+Breach Travel 120mm

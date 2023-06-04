@@ -1,0 +1,89 @@
+Bicycle Site Bali(nama web)
+HOME(hal1.html) - SHOP(hal2.html) - CYCLE TRACK(hal3.html) - ABOUT US(hal4.html)
+
+(WEB NYA WARNA DASARNYA OREN, ITEM, SAMA PUTIH. BIAR NYATU SAMA LOGONYA :v)
+
+------------------------------------------
+
+isi HOME (hal1.html)
+
+header
+logo [home - shop - cycle track - about us]
+
+
+Bicycle Site Bali
+
+
+slide(slide1-slide5)
+
+
+(ulasan sejarah sepeda)
+Sepeda adalah kendaraan beroda dua atau tiga, mempunyai setang, tempat duduk, dan sepasang pengayuh yang digerakan kaki untuk menjalankannya. Sepeda merupakan salah satu alat transportasi yang paling penting di dunia, karena selain ramah lingkungan, sepeda juga menjadi tonggak munculnya kendaraan-kendaraan lainya (Kurnia, 2015).
+
+Sepeda pertama kali dikenal di Perancis dengan nama Velocipede pada awal abad ke 18. Konstruksi sepeda pertama yang dipatenkan dilakukan oleh Baron Karls Drais von Sauerbronn dari Jerman pada Tahun 1818. Model sepeda yang dikembangkan masih mendua, antara sepeda dan kereta kuda. Sehingga masyarakat menjuluki sepeda ciptaan Baron sebagai dandy horse.
+
+Awal penggunaan sepeda di Indonesia adalah pada masa kolonial Belanda. Orang Belanda membawa sepeda buatan Eropa sebagai alat transportasi pada masa pendudukan mereka di Indonesia. Pada 1980-an, popularitas sepeda di Indonesia mulai didominasi oleh sepeda modern, seperti sepeda gunung (Mountain Bike), sepeda perkotaan (Commuting Bike), sepeda anak dan belakangan sepeda lipat (Folding Bike).
+
+
+trend (foto foto sepeda)(sepeda1-sepeda8)
+- Streling Pro Disc
+- Rev Park
+- E-CLOVIS
+- TRIFOLD 11S LE
+- MIAMI 4.00
+- GAVRIIL
+- EPSILON C.100
+- EPSILON T5
+
+
+footer
+[home - shop - cycle track - about us]
+Bicycle Site Bali
+
+------------------------------------------
+
+ABOUT US(hal4.html)
+
+
+header
+logo [home - shop - cycle track - about us]
+
+
+alamat
+lokasi(google map dimana aja)+foto toko(toko1)
+
+
+sosial(kasi logonya kalo bisa :v)
+@BicycleSiteBali - (twitter)
+BicycleSite - (FaceBook)
+@bicycleSite_Bali - (IG)
+
+no telp.
+204(36)759-22-62
+9(8463)667-96-39
+12(539)368-38-00
+
+
+footer
+[home - shop - cycle track - about us]
+Bicycle Site Bali
+
+------------------------------------------
+
+rubah rubah dah cuy, kan ke dewa desaign :v
+
+ini contoh web nya
+
+https://pacific-bike.com/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQiti7p4zyLq5lJoiLZjQUoRqVgPsqBfQAhcrbVMSsj_pzO7E-msv2qYaAlhkEALw_wcB
+
+https://unitedbike.com/id
+
+https://www.polygonbikes.com/id/
+
+https://www.rodalink.com/id/sepeda.html
+
+--------------------------------------------
+artikel
+https://www.gwgrill.com/wisata-bersepeda-di-bali/
+https://www.longtripmania.org/2019/02/lokasi-bersepeda-di-bali.html
+
